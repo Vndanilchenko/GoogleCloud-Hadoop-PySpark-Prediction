@@ -15,6 +15,7 @@ example of working with Google Cloud Dataproc
 * [creating python script to prepare data and writing output dataset in parquet format](#sec12)
 * [creating Job to run python script](#sec13)
 * [data preparation and making prediction house cost using PySpark and Linear Regression](#sec14)
+* [distributed Deep Learning with PySpark and Keras](#sec15)
 
 
 <a name="sec1"/>
@@ -182,3 +183,8 @@ checking output file "train_modified_from_job.parquet"
 
 [example of making predictions using PySpark - "PySpark prediction.ipynb"](/PySpark%20prediction.ipynb)
 
+<a name="sec15"/>
+
+#### distributed Deep Learning with PySpark and Keras 
+
+[example of Distributed Deep Learning in PySpark - "Distributed DL Pipelines - PySpark and Keras.ipynb"](/Distributed%20DL%20Pipelines%20-%20PySpark%20and%20Keras.ipynb)
