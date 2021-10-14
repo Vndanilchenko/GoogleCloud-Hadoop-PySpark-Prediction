@@ -188,3 +188,8 @@ checking output file "train_modified_from_job.parquet"
 #### distributed Deep Learning with PySpark and Keras 
 
 [example of Distributed Deep Learning in PySpark - "Distributed DL Pipelines - PySpark and Keras.ipynb"](/Distributed%20DL%20Pipelines%20-%20PySpark%20and%20Keras.ipynb)
+
+
+author: Vadim Danilchenko
+
+email: vndanilchenko@gmail.com 
